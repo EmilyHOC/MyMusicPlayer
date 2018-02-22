@@ -1,0 +1,4 @@
+#Tue Feb 20 14:29:37 CST 2018
+base.0=D\:\\AnroidProject\\03MyMusic\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

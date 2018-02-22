@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音乐播放器</string>
+    
+    <string name="default_title_name">音乐播放器</string>
+    
+    
+    
+    
+ 	<string name="about_title_name">关于</string>
+ 	
+ 	<string name="about_content">
+	音乐播放器for Android\n
+	版本号:1.1.1\n\n
+	温馨提示\n
+	本音乐播放器是本地音乐播放器,在使用过程中不涉及网络流量.\n\n
+
+ 	</string>  
+    
+    
+</resources>
